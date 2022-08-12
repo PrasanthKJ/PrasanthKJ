@@ -20,3 +20,5 @@ I'm a Developer, Learner.
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)
 
+### My Github Stats
+![Prasanth KJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthkj)
