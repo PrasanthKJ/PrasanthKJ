@@ -21,4 +21,5 @@ I'm a Developer, Learner.
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)
 
 ### My Github Stats
-![Prasanth KJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthkj)
+
+![Prasanth KJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthkj&show_icons=true&bg_color=30,4C3AE3,00BC40&title_color=fff&text_color=CAD5E2&icon_color=CAD5E2)
