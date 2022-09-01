@@ -12,7 +12,11 @@ I'm a Developer, Learner.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
 
+### Dev Tools I use
+![VsCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode) 
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 ### Productivity Tools I use
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
